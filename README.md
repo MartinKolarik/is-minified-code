@@ -8,10 +8,16 @@ Check if a piece of code is minified.
 $ npm install is-minified-code
 ```
 
+or
+
+```
+<script src="https://cdn.jsdelivr.net/npm/is-minified-code@1.1.0"></script>
+```
+
 ## Usage
 
 ```js
-const isMinified = require('is-minified-code');
+const isMinified = require('is-minified-code'); // or windows.isMinified
 
 isMinified('/* code */'); // => true/false
 ```
