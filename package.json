@@ -1,7 +1,7 @@
 {
 	"name": "is-minified-code",
 	"description": "Check if a piece of code is minified.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"homepage": "https://github.com/MartinKolarik/is-minified-code/",
 	"github": "https://github.com/MartinKolarik/is-minified-code/",
 	"main": "index.umd.js",
