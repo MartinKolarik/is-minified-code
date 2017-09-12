@@ -17,7 +17,7 @@ or
 ## Usage
 
 ```js
-const isMinified = require('is-minified-code'); // or windows.isMinified
+const isMinified = require('is-minified-code'); // or window.isMinified
 
 isMinified('/* code */'); // => true/false
 ```
