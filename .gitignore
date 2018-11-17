@@ -1,3 +1,6 @@
 .idea/
 .local/
+dist/
 node_modules/
+test/minified/
+test/unminified/
